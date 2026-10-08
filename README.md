@@ -1,1 +1,1 @@
-<img src="assets/banner.svg" alt="OmarYƵY" width="100%">
+<img src="assets/omar.svg" alt="OmarYƵY" width="100%">
